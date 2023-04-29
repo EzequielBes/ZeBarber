@@ -30,6 +30,9 @@ export const NavigationBar = styled.nav`
       color: black;
       font-size: 20px;
       cursor: pointer;
+      &:hover {
+        color: red;
+      }
     } 
   }
 
